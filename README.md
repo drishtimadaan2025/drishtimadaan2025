@@ -13,7 +13,7 @@
 ### 💻 Frameworks & Tools  
 - **Backend:** Laravel, FastAPI, Django  
 - **Frontend:** React, HTML, JavaScript  
-- **Databases:** MySQL, SQLite  
+- **Databases:** MySQL, SQLite, Postgres 
 - **Version Control:** Git, GitHub  
 - **UI/UX Tools:** draw.io  
 - **Methodologies:** Agile practices
